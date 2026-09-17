@@ -1,0 +1,5 @@
+{
+  "fallback": true,
+  "reason": "trends_connect_timeout_or_blocked",
+  "rows": 1066
+}
